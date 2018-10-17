@@ -1,1 +1,1 @@
-# tyo project for japan
+# tyo project for python
